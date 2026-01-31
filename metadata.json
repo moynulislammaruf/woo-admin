@@ -1,0 +1,5 @@
+{
+  "name": "Woo Market Admin Panel",
+  "description": "A high-performance administration dashboard for managing tasks, users, withdrawals, and site configurations for the Woo Market Telegram Mini App.",
+  "requestFramePermissions": []
+}
